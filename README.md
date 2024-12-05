@@ -2,6 +2,7 @@
 ## I am Rajesh Chandran, a DevOps Enthusiast!
 ## Skills:
 #### `Linux`
+#### `Linux`
 #### `Shell Script`
 #### `Git`
 #### `GitHub`
