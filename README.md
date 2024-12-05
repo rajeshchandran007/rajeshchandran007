@@ -1,13 +1,14 @@
-# Hi there, I am Rajesh Chandran, a DevOps Enthusiast! 👋
-# Skills:
-### Linux
-### Git
-### GitHub
-### Jenkins
-### Ansible
-### Terraform
-### Docker
-### Kubernetes
+# Hi there 👋
+## I am Rajesh Chandran, a DevOps Enthusiast!
+## Skills:
+#### Linux
+#### Git
+#### GitHub
+#### Jenkins
+#### Ansible
+#### Terraform
+#### Docker
+#### Kubernetes
 <!--
 **rajeshchandran007/rajeshchandran007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
