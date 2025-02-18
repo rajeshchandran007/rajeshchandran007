@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am Rajesh Chandran, a DevOps Enthusiast!
+## I am Rajesh Chandran, a DevOps Enthusiast and a Certified Kubernetes Administrator (CKA)!
 ## Skills:
 #### `Linux`
 #### `Shell Script`
